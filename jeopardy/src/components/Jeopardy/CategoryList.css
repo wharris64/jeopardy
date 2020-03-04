@@ -1,0 +1,40 @@
+.categorySelect{
+    flex-direction: row;
+    width:150px;
+    height:150px;
+    font-size:20px;
+    color:white;
+    background-color:blue;
+}
+
+.CategoryList{
+    display:flex;
+    flex-direction:row;
+    padding:15px;
+    height:100%;
+    width:100%;
+}
+
+.Score{
+    text-align: center;
+
+}
+
+.CategoryContainer{
+    display:flex;
+
+    justify-content:center;
+    align-items:center;
+    height:150px;
+}
+
+h3{
+    text-align: center;
+    font-size:30px;
+}
+
+.Container{
+    height:500px;
+    width:600px;
+    display:flex;
+}

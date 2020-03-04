@@ -1,0 +1,37 @@
+.Game{
+    margin-top:10%;
+    width:600px;
+    height:500px;
+    display:flex;
+    flex-direction:column;
+    align-content:space-around;
+    padding:10px;
+    align-items: center;
+    
+
+}
+.scoreContainer{
+    font-size:14px;
+}
+
+.categoryContainer{
+    font-size:25px;
+}
+
+.clue{
+    display:flex;
+    font-size:28px;
+    background-color:blue;
+    color:whitesmoke;
+    width:80%;
+    justify-content: center;
+    align-items:center;
+    border-radius:20%;
+}
+
+.value{
+    font-size:22px;
+    background-color:blue;
+    color:whitesmoke;
+    border-radius:30%;
+}
